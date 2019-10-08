@@ -1,5 +1,4 @@
-# newspaper
-# Description
+# Project Description
 Newspaper article page template using CSS Multi-column layout.
 
 # CSS features:
@@ -10,3 +9,6 @@ Newspaper article page template using CSS Multi-column layout.
 
 # dev setup
 - vscode with live sass compiler 
+
+# credits
+This project is a modification based upon the design by Gary Simon of DesignCourse YT Channel & Coursetro.com
