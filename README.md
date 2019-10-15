@@ -1,7 +1,7 @@
-# Project Description
+# project description
 Newspaper article page template using CSS Multi-column layout.
 
-# CSS features:
+# css features
 - fully responsive design (mobile first)
 - columm rule for better visual seperation between text columns
 - text quotations that span all article columns
